@@ -1,6 +1,6 @@
 # ddns-go
 执行
-wgethttps://raw.githubusercontent.com/474706852/ddns-go/refs/heads/main/ddns-go-install.sh
+wget https://raw.githubusercontent.com/474706852/ddns-go/refs/heads/main/ddns-go-install.sh
 # 赋予执行权限
 chmod +x ddns-go-install.sh
 # 执行安装
